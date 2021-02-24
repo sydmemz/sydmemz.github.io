@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sydmemz.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-24T13:53:55.635Z</updated>
+    <title>尚宜鼎MEMZ</title>
+    <updated>2021-02-24T13:54:17.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sydmemz.github.io"/>
     <link rel="self" href="https://sydmemz.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个爱Van电脑的czs罢了。。。</subtitle>
     <logo>https://sydmemz.github.io/images/avatar.png</logo>
     <icon>https://sydmemz.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 尚宜鼎MEMZ</rights>
 </feed>
